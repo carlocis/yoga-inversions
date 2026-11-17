@@ -1,0 +1,8 @@
+# Your favourite yoga studios.
+# For each studio, give a name and the link to its planning/booking page.
+# Replace the examples below with real studios, then save the file.
+studios:
+  - name: "Studio A"
+    url: "https://..."
+  - name: "Studio B"
+    url: "https://..."
